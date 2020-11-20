@@ -43,3 +43,5 @@ luac.out
 build
 Packages
 roblox.toml
+
+node_modules
